@@ -1,4 +1,4 @@
-# fullPageScroll
+# Full Page Slideshow
 
 A simple plugin for a _responsive_ full page slideshow.
 
